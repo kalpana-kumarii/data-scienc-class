@@ -1,0 +1,145 @@
+2023-02-24 10:12:51,747 Comm ERROR No such comm target registered: jupyter.widget.control
+2023-02-24 10:12:51,748 Comm WARNING No such comm: 7cea805a-4aa8-4a06-b0a9-c6a70b092353
+2023-02-24 10:12:51,749 Comm DEBUG Current comms: []
+2023-02-24 10:12:51,752 root INFO this is my info logging
+2023-02-24 10:12:51,752 root ERROR this is my error msg
+2023-02-24 10:12:51,752 root CRITICAL this is my critical
+2023-02-24 10:14:36,774 parso.cache DEBUG pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/builtins.pyi
+2023-02-24 10:14:36,817 parso.cache DEBUG pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
+2023-02-24 10:17:49,459 parso.python.diff DEBUG diff parser start
+2023-02-24 10:17:49,460 parso.python.diff DEBUG line_lengths old: 5; new: 6
+2023-02-24 10:17:49,460 parso.python.diff DEBUG -> code[equal] old[1:3] new[1:3]
+2023-02-24 10:17:49,460 parso.python.diff DEBUG copy old[1:2] new[1:2]
+2023-02-24 10:17:49,461 parso.python.diff DEBUG parse_part from 3 to 6 (to 5 in part parser)
+2023-02-24 10:17:49,461 parso.python.diff DEBUG -> code[replace] old[4:5] new[4:6]
+2023-02-24 10:17:49,461 parso.python.diff DEBUG diff parser end
+2023-02-24 10:19:13,398 root INFO we are iterating through our list and our local variable as i
+2023-02-24 10:19:13,399 root INFO we are iterating through our list and our local variable as i
+2023-02-24 10:19:13,399 root INFO we are iterating through our list and our local variable as i
+2023-02-24 10:19:13,399 root INFO we are iterating through our list and our local variable as i
+2023-02-24 10:19:13,399 root INFO we are iterating through our list and our local variable as i
+2023-02-24 10:19:13,399 root INFO we are iterating through our list and our local variable as i
+2023-02-24 10:19:13,399 root INFO we are iterating through our list and our local variable as i
+2023-02-24 10:19:13,399 root INFO i am inside if statement and i am trying to check list type
+2023-02-24 10:19:13,399 root INFO i am in another for loop list inside list element
+2023-02-24 10:19:13,399 root INFO i am inside if statement
+2023-02-24 10:19:13,399 root INFO i am in another for loop list inside list element
+2023-02-24 10:19:13,399 root INFO i am inside if statement
+2023-02-24 10:19:13,399 root INFO i am in another for loop list inside list element
+2023-02-24 10:19:13,399 root INFO i am inside if statement
+2023-02-24 10:19:13,399 root INFO we are iterating through our list and our local variable as i
+2023-02-24 10:19:13,399 root INFO we are iterating through our list and our local variable as i
+2023-02-24 10:21:02,768 root INFO i am inside if statement and i am trying to check list type
+2023-02-24 10:21:02,768 root INFO i am in another for loop list inside list element
+2023-02-24 10:21:02,768 root INFO i am inside if statement
+2023-02-24 10:21:02,768 root INFO i am in another for loop list inside list element
+2023-02-24 10:21:02,768 root INFO i am inside if statement
+2023-02-24 10:21:02,768 root INFO i am in another for loop list inside list element
+2023-02-24 10:21:02,768 root INFO i am inside if statement
+2023-02-24 10:21:13,884 root INFO we are iterating through our list and our local variable as i
+2023-02-24 10:21:13,884 root INFO we are iterating through our list and our local variable as i
+2023-02-24 10:21:13,884 root INFO we are iterating through our list and our local variable as i
+2023-02-24 10:21:13,885 root INFO we are iterating through our list and our local variable as i
+2023-02-24 10:21:13,885 root INFO we are iterating through our list and our local variable as i
+2023-02-24 10:21:13,885 root INFO we are iterating through our list and our local variable as i
+2023-02-24 10:21:13,885 root INFO we are iterating through our list and our local variable as i
+2023-02-24 10:21:13,885 root INFO i am inside if statement and i am trying to check list type
+2023-02-24 10:21:13,885 root INFO i am in another for loop list inside list element
+2023-02-24 10:21:13,885 root INFO i am inside if statement
+2023-02-24 10:21:13,885 root INFO i am in another for loop list inside list element
+2023-02-24 10:21:13,885 root INFO i am inside if statement
+2023-02-24 10:21:13,885 root INFO i am in another for loop list inside list element
+2023-02-24 10:21:13,885 root INFO i am inside if statement
+2023-02-24 10:21:13,886 root INFO we are iterating through our list and our local variable as i
+2023-02-24 10:21:13,886 root INFO we are iterating through our list and our local variable as i
+2023-02-24 15:06:38,409 root INFO this is my info logging
+2023-02-24 15:06:38,409 root ERROR this is my error msg
+2023-02-24 15:06:38,409 root CRITICAL this is my critical
+2023-02-24 15:06:40,050 root INFO we are iterating through our list and our local variable as i1
+2023-02-24 15:06:40,051 root INFO we are iterating through our list and our local variable as i2
+2023-02-24 15:06:40,051 root INFO we are iterating through our list and our local variable as i3
+2023-02-24 15:06:40,051 root INFO we are iterating through our list and our local variable as i4
+2023-02-24 15:06:40,051 root INFO we are iterating through our list and our local variable as i5
+2023-02-24 15:06:40,051 root INFO we are iterating through our list and our local variable as i7
+2023-02-24 15:06:40,052 root INFO we are iterating through our list and our local variable as i[2, 3, 4]
+2023-02-24 15:06:40,052 root INFO i am inside if statement and i am trying to check list type
+2023-02-24 15:06:40,052 root INFO i am in another for loop list inside list element
+2023-02-24 15:06:40,052 root INFO i am inside if statement
+2023-02-24 15:06:40,052 root INFO i am in another for loop list inside list element
+2023-02-24 15:06:40,052 root INFO i am inside if statement
+2023-02-24 15:06:40,052 root INFO i am in another for loop list inside list element
+2023-02-24 15:06:40,052 root INFO i am inside if statement
+2023-02-24 15:06:40,052 root INFO we are iterating through our list and our local variable as isudh
+2023-02-24 15:06:40,052 root INFO we are iterating through our list and our local variable as ikumar
+2023-02-24 15:07:40,881 root INFO we are iterating through our list and our local variable as i1
+2023-02-24 15:07:40,882 root INFO we are iterating through our list and our local variable as i2
+2023-02-24 15:07:40,882 root INFO we are iterating through our list and our local variable as i3
+2023-02-24 15:07:40,882 root INFO we are iterating through our list and our local variable as i4
+2023-02-24 15:07:40,882 root INFO we are iterating through our list and our local variable as i5
+2023-02-24 15:07:40,882 root INFO we are iterating through our list and our local variable as i7
+2023-02-24 15:07:40,882 root INFO we are iterating through our list and our local variable as i[2, 3, 4]
+2023-02-24 15:07:40,882 root INFO i am inside if statement and i am trying to check list type[2, 3, 4]
+2023-02-24 15:07:40,882 root INFO i am in another for loop list inside list element[2, 3, 4]
+2023-02-24 15:07:40,882 root INFO i am inside if statement
+2023-02-24 15:07:40,882 root INFO i am in another for loop list inside list element[2, 3, 4]
+2023-02-24 15:07:40,882 root INFO i am inside if statement
+2023-02-24 15:07:40,882 root INFO i am in another for loop list inside list element[2, 3, 4]
+2023-02-24 15:07:40,882 root INFO i am inside if statement
+2023-02-24 15:07:40,882 root INFO we are iterating through our list and our local variable as isudh
+2023-02-24 15:07:40,882 root INFO we are iterating through our list and our local variable as ikumar
+2023-02-24 15:08:54,811 root INFO we are iterating through our list and our local variable as i [1, 2, 3, 4, 5, 7, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 15:08:54,811 root INFO we are iterating through our list and our local variable as i [1, 2, 3, 4, 5, 7, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 15:08:54,811 root INFO we are iterating through our list and our local variable as i [1, 2, 3, 4, 5, 7, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 15:08:54,811 root INFO we are iterating through our list and our local variable as i [1, 2, 3, 4, 5, 7, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 15:08:54,811 root INFO we are iterating through our list and our local variable as i [1, 2, 3, 4, 5, 7, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 15:08:54,812 root INFO we are iterating through our list and our local variable as i [1, 2, 3, 4, 5, 7, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 15:08:54,812 root INFO we are iterating through our list and our local variable as i [1, 2, 3, 4, 5, 7, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 15:08:54,812 root INFO i am inside if statement and i am trying to check list type[2, 3, 4]
+2023-02-24 15:08:54,812 root INFO i am in another for loop list inside list element[2, 3, 4]
+2023-02-24 15:08:54,812 root INFO i am inside if statement
+2023-02-24 15:08:54,812 root INFO i am in another for loop list inside list element[2, 3, 4]
+2023-02-24 15:08:54,812 root INFO i am inside if statement
+2023-02-24 15:08:54,812 root INFO i am in another for loop list inside list element[2, 3, 4]
+2023-02-24 15:08:54,812 root INFO i am inside if statement
+2023-02-24 15:08:54,812 root INFO we are iterating through our list and our local variable as i [1, 2, 3, 4, 5, 7, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 15:08:54,812 root INFO we are iterating through our list and our local variable as i [1, 2, 3, 4, 5, 7, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 15:10:37,285 Comm ERROR No such comm target registered: jupyter.widget.control
+2023-02-24 15:10:37,289 Comm WARNING No such comm: b7b731c6-8b47-42ea-ac22-ba994046e16d
+2023-02-24 15:10:37,289 Comm DEBUG Current comms: []
+2023-02-24 15:11:02,771 root INFO we are iterating through our list and our local variable as i [1, 2, 3, 4, 5, 7, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 15:11:02,771 root INFO we are iterating through our list and our local variable as i [1, 2, 3, 4, 5, 7, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 15:11:02,772 root INFO we are iterating through our list and our local variable as i [1, 2, 3, 4, 5, 7, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 15:11:02,772 root INFO we are iterating through our list and our local variable as i [1, 2, 3, 4, 5, 7, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 15:11:02,772 root INFO we are iterating through our list and our local variable as i [1, 2, 3, 4, 5, 7, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 15:11:02,772 root INFO we are iterating through our list and our local variable as i [1, 2, 3, 4, 5, 7, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 15:11:02,772 root INFO we are iterating through our list and our local variable as i [1, 2, 3, 4, 5, 7, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 15:11:02,772 root INFO i am inside if statement and i am trying to check list type[2, 3, 4]
+2023-02-24 15:11:02,772 root INFO i am in another for loop list inside list element[2, 3, 4]
+2023-02-24 15:11:02,772 root INFO i am inside if statement
+2023-02-24 15:11:02,772 root INFO i am in another for loop list inside list element[2, 3, 4]
+2023-02-24 15:11:02,772 root INFO i am inside if statement
+2023-02-24 15:11:02,772 root INFO i am in another for loop list inside list element[2, 3, 4]
+2023-02-24 15:11:02,772 root INFO i am inside if statement
+2023-02-24 15:11:02,772 root INFO we are iterating through our list and our local variable as i [1, 2, 3, 4, 5, 7, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 15:11:02,772 root INFO we are iterating through our list and our local variable as i [1, 2, 3, 4, 5, 7, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 15:11:02,772 root INFO my final result for int is [1, 2, 3, 4, 5, 7, 2, 3, 4] and str is['sudh', 'kumar']
+2023-02-24 15:11:45,112 root INFO we are iterating through our list and our local variable as i [1, 2, 3, 4, 5, 7, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 15:11:45,112 root INFO we are iterating through our list and our local variable as i [1, 2, 3, 4, 5, 7, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 15:11:45,112 root INFO we are iterating through our list and our local variable as i [1, 2, 3, 4, 5, 7, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 15:11:45,112 root INFO we are iterating through our list and our local variable as i [1, 2, 3, 4, 5, 7, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 15:11:45,112 root INFO we are iterating through our list and our local variable as i [1, 2, 3, 4, 5, 7, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 15:11:45,112 root INFO we are iterating through our list and our local variable as i [1, 2, 3, 4, 5, 7, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 15:11:45,113 root INFO we are iterating through our list and our local variable as i [1, 2, 3, 4, 5, 7, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 15:11:45,113 root INFO i am inside if statement and i am trying to check list type[2, 3, 4]
+2023-02-24 15:11:45,113 root INFO i am in another for loop list inside list element[2, 3, 4]
+2023-02-24 15:11:45,113 root INFO i am inside if statement
+2023-02-24 15:11:45,113 root INFO i am in another for loop list inside list element[2, 3, 4]
+2023-02-24 15:11:45,113 root INFO i am inside if statement
+2023-02-24 15:11:45,113 root INFO i am in another for loop list inside list element[2, 3, 4]
+2023-02-24 15:11:45,113 root INFO i am inside if statement
+2023-02-24 15:11:45,113 root INFO we are iterating through our list and our local variable as i [1, 2, 3, 4, 5, 7, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 15:11:45,113 root INFO we are iterating through our list and our local variable as i [1, 2, 3, 4, 5, 7, [2, 3, 4], 'sudh', 'kumar']
+2023-02-24 15:11:45,113 root INFO my final result for int is [1, 2, 3, 4, 5, 7, 2, 3, 4] and str is ['sudh', 'kumar']
+2023-02-24 15:16:14,213 Comm ERROR No such comm target registered: jupyter.widget.control
+2023-02-24 15:16:14,222 Comm WARNING No such comm: 0f47a1b7-897a-4be0-b801-63a45538fb4a
+2023-02-24 15:16:14,222 Comm DEBUG Current comms: []

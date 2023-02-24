@@ -1,0 +1,28 @@
+2023-02-24 10:08:49,710 this is my info logging
+2023-02-24 10:08:49,710 this is my error msg
+2023-02-24 10:08:49,710 this is my critical
+2023-02-24 10:09:47,841 pickle loaded: /opt/conda/lib/python3.10/logging/__init__.py
+2023-02-24 10:10:06,197 diff parser start
+2023-02-24 10:10:06,197 line_lengths old: 1; new: 1
+2023-02-24 10:10:06,197 -> code[replace] old[1:1] new[1:1]
+2023-02-24 10:10:06,197 parse_part from 1 to 1 (to 0 in part parser)
+2023-02-24 10:10:06,197 diff parser end
+2023-02-24 10:10:06,236 pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/builtins.pyi
+2023-02-24 10:10:06,289 pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
+2023-02-24 10:10:09,021 diff parser start
+2023-02-24 10:10:09,022 line_lengths old: 1; new: 1
+2023-02-24 10:10:09,022 -> code[replace] old[1:1] new[1:1]
+2023-02-24 10:10:09,022 parse_part from 1 to 1 (to 0 in part parser)
+2023-02-24 10:10:09,022 diff parser end
+2023-02-24 10:11:46,579 this is my info logging
+2023-02-24 10:11:46,579 this is my error msg
+2023-02-24 10:11:46,579 this is my critical
+2023-02-24 10:12:02,745 No such comm target registered: jupyter.widget.control
+2023-02-24 10:12:02,753 No such comm: 6a6fbe18-ac6f-46a0-b841-2358928a961d
+2023-02-24 10:12:02,754 Current comms: []
+2023-02-24 10:12:18,914 this is my info logging
+2023-02-24 10:12:18,915 this is my error msg
+2023-02-24 10:12:18,915 this is my critical
+2023-02-24 10:12:34,426 No such comm target registered: jupyter.widget.control
+2023-02-24 10:12:34,431 No such comm: f0bf1b26-60a4-426d-b0f0-a21cf9216402
+2023-02-24 10:12:34,431 Current comms: []
